@@ -1,5 +1,5 @@
 # Capstone_Project_Airbnb_EDA
-Almabetter EDA Project
+Capstone EDA Project
 
 Airbnb, an influential online marketplace that facilitates connections between property hosts and prospective tenants, spans across more than 100,000 cities and 220 countries globally. Our current focus lies in the vibrant context of New York City (NYC) in 2019, a year when the city attracted an impressive 66.6 million visitors. Within this project, our primary objective centers on the thorough analysis of Airbnb's dataset for NYC, recognizing the pivotal role data plays in the company's operations. The overarching goal is to uncover the key metrics that shape property listings on the platform. Through the application of fundamental exploratory data analysis (EDA) techniques, we meticulously scrutinize the distribution of listings based on various factors, such as location, pricing, room types, and more.
 
